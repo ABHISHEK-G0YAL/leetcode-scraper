@@ -57,9 +57,7 @@ def get_code(submission):
     info = '// ' + submission[2] + '    ' + submission[3] + '\n\n'
     return problem_link + info + code
 
-def sign_into_leetcode():
-    username = ''
-    password = ''
+def sign_into_leetcode(username, password):
     driver.get("https://leetcode.com/accounts/login/")
     driver.find_element_by_xpath('// *[ @ id = "id_login"]').send_keys(username)
     driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(password)
@@ -112,7 +110,7 @@ def go_to_submissions():
             f.write(code)
 
 if __name__ == "__main__":
-    sign_into_leetcode()
+    sign_into_leetcode(username='', password='')
     input('proceed?')
     go_to_submissions()
     # go_to_algorithms()
