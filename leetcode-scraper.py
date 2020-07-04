@@ -47,6 +47,25 @@ def go_to_algorithms():
         code = scrape_code(problems[title])
         create_file(title, code)
 
+def filter_submissions(submissions):
+    def better_of(s1, s2):
+        if s2[3] == 'N/A':
+            return s1
+        elif s1[3] == 'N/A':
+            return s2
+        else:
+            t1 = int(s1[3].split()[0])
+            t2 = int(s2[3].split()[0])
+            return s2 if t1 > t2 else s1
+    submissions_to_save = dict()
+    for submission in submissions:
+        problem_name = submission[1]
+        if submissions_to_save.get(problem_name) is None:
+            submissions_to_save[problem_name] = submission
+        else:
+            submissions_to_save[problem_name] = better_of(submissions_to_save[problem_name], submission)
+    return submissions_to_save
+
 def get_code(submission):
     driver.get(submission[-1])
     code_box = driver.find_element_by_xpath('//*[@id="ace"]/div/div[3]/div').click()
@@ -80,24 +99,6 @@ def go_to_submissions():
         next_button.click()
     with open('submissions.txt', 'w') as f:
         print(submissions, file=f)
-    def filter_submissions(submissions):
-        def better_of(s1, s2):
-            if s2[3] == 'N/A':
-                return s1
-            elif s1[3] == 'N/A':
-                return s2
-            else:
-                t1 = int(s1[3].split()[0])
-                t2 = int(s2[3].split()[0])
-                return s2 if t1 > t2 else s1
-        submissions_to_save = dict()
-        for submission in submissions:
-            problem_name = submission[1]
-            if submissions_to_save.get(problem_name) is None:
-                submissions_to_save[problem_name] = submission
-            else:
-                submissions_to_save[problem_name] = better_of(submissions_to_save[problem_name], submission)
-        return submissions_to_save
     submissions_to_save = filter_submissions(submissions)
     with open('submissions_to_save.txt', 'w') as f:
         print(submissions_to_save, file=f)
