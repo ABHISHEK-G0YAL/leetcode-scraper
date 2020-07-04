@@ -10,6 +10,7 @@ For example, your solution to the problem <name> will be stored in the file <nam
 TIME_DELAY = 10
 import os
 import time
+import json
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -97,11 +98,11 @@ def go_to_submissions():
         except NoSuchElementException:
             break
         next_button.click()
-    with open('submissions.txt', 'w') as f:
-        print(submissions, file=f)
+    with open('submissions.json', 'w') as f:
+        json.dump(submissions, file=f)
     submissions_to_save = filter_submissions(submissions)
-    with open('submissions_to_save.txt', 'w') as f:
-        print(submissions_to_save, file=f)
+    with open('submissions_to_save.json', 'w') as f:
+        json.dump(submissions_to_save, file=f)
     path = './LeetCode/'
     os.makedirs(path, exist_ok=True)
     for problem_name in submissions_to_save:
