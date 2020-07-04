@@ -77,13 +77,23 @@ def get_code(submission):
     info = '// ' + submission[2] + '    ' + submission[3] + '\n\n'
     return problem_link + info + code
 
+def save_codes():
+    path = './LeetCode/'
+    os.makedirs(path, exist_ok=True)
+    for problem_name in submissions_to_save:
+        code = get_code(submissions_to_save[problem_name])
+        code_lang = submissions_to_save[problem_name][-2]
+        file_path = path + problem_name.replace(' ', '_') + '.' + code_lang
+        with open(file_path, 'w') as f:
+            f.write(code)
+
 def sign_into_leetcode(username, password):
     driver.get("https://leetcode.com/accounts/login/")
     driver.find_element_by_xpath('// *[ @ id = "id_login"]').send_keys(username)
     driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(password)
     driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(Keys.ENTER)
 
-def go_to_submissions():
+def get_submissions():
     driver.get('https://leetcode.com/submissions/')
     submissions = []
     while True:
@@ -98,22 +108,17 @@ def go_to_submissions():
         except NoSuchElementException:
             break
         next_button.click()
-    with open('submissions.json', 'w') as f:
-        json.dump(submissions, file=f)
-    submissions_to_save = filter_submissions(submissions)
-    with open('submissions_to_save.json', 'w') as f:
-        json.dump(submissions_to_save, file=f)
-    path = './LeetCode/'
-    os.makedirs(path, exist_ok=True)
-    for problem_name in submissions_to_save:
-        code = get_code(submissions_to_save[problem_name])
-        file_path = path + problem_name.replace(' ', '_') + '.cpp'
-        with open(file_path, 'w') as f:
-            f.write(code)
+    return submissions
 
 if __name__ == "__main__":
     sign_into_leetcode(username='', password='')
     input('proceed?')
-    go_to_submissions()
+    submissions = get_submissions()
+    with open('all_submissions.json', 'w') as f:
+        json.dump(submissions, file=f)
+    submissions_to_save = filter_submissions(submissions)
+    with open('submissions_to_save.json', 'w') as f:
+        json.dump(submissions_to_save, file=f)
+    save_codes(submissions_to_save)
     # go_to_algorithms()
     driver.close()
