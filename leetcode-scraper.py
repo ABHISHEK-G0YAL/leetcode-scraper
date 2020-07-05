@@ -19,18 +19,14 @@ from selenium.webdriver.common.action_chains import ActionChains
 import pyperclip
 
 chrome_options = Options()
-chrome_options.add_argument("--log-level=3")
+chrome_options.add_argument('--log-level=3')
 driver = webdriver.Chrome(options=chrome_options)
 driver.implicitly_wait(TIME_DELAY)
 
 def get_solved_problems():
     driver.get('https://leetcode.com/problemset/all/?status=Solved')
     table = driver.find_element_by_class_name('reactable-data')
-    problems = {}
-    for row in table.find_elements_by_tag_name("tr"):
-        title = row.find_element_by_tag_name("a").text
-        href = row.find_element_by_tag_name("a").get_attribute("href")
-        problems[title] = href
+    problems = {row.find_element_by_tag_name('a').text : row.find_element_by_tag_name('a').get_attribute('href') for row in table.find_elements_by_tag_name('tr')}
     return problems
 
 def get_code(submission):
@@ -89,12 +85,12 @@ def get_submissions():
     return submissions
 
 def sign_into_leetcode(username, password):
-    driver.get("https://leetcode.com/accounts/login/")
+    driver.get('https://leetcode.com/accounts/login/')
     driver.find_element_by_xpath('// *[ @ id = "id_login"]').send_keys(username)
     driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(password)
     driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(Keys.ENTER)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     sign_into_leetcode(username='', password='')
     input('proceed?')
     solved_problems = get_solved_problems()
