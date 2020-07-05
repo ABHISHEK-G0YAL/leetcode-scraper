@@ -26,7 +26,7 @@ driver.implicitly_wait(TIME_DELAY)
 def get_solved_problems():
     driver.get('https://leetcode.com/problemset/all/?status=Solved')
     table = driver.find_element_by_class_name('reactable-data')
-    problems = {row.find_element_by_tag_name('a').text : row.find_element_by_tag_name('a').get_attribute('href') for row in table.find_elements_by_tag_name('tr')}
+    problems = {(a := row.find_element_by_tag_name('a')).text : a.get_attribute('href') for row in table.find_elements_by_tag_name('tr')}
     return problems
 
 def get_code(submission):
