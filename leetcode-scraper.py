@@ -48,6 +48,25 @@ def go_to_algorithms():
         code = scrape_code(problems[title])
         create_file(title, code)
 
+def get_code(submission):
+    driver.get(submission[-1])
+    code_box = driver.find_element_by_xpath('//*[@id="ace"]/div/div[3]/div').click()
+    ActionChains(driver).key_down(Keys.CONTROL).send_keys('a').key_up(Keys.CONTROL).perform()
+    ActionChains(driver).key_down(Keys.CONTROL).send_keys('c').key_up(Keys.CONTROL).perform()
+    code = pyperclip.paste()
+    problem_link = '// ' + driver.find_element_by_xpath('//*[@id="submission-app"]/div/div[1]/h4/a').get_attribute('href') + '\n'
+    info = '// ' + submission[2] + '    ' + submission[3] + '\n\n'
+    return problem_link + info + code
+
+def save_codes(submissions, path):
+    os.makedirs(path, exist_ok=True)
+    for problem_name in submissions:
+        code = get_code(submissions[problem_name])
+        code_lang = submissions[problem_name][-2]
+        file_path = path + problem_name.replace(' ', '_') + '.' + code_lang
+        with open(file_path, 'w') as f:
+            f.write(code)
+
 def filter_submissions(submissions):
     def better_of(s1, s2):
         if s2[3] == 'N/A':
@@ -67,32 +86,6 @@ def filter_submissions(submissions):
             submissions_to_save[problem_name] = better_of(submissions_to_save[problem_name], submission)
     return submissions_to_save
 
-def get_code(submission):
-    driver.get(submission[-1])
-    code_box = driver.find_element_by_xpath('//*[@id="ace"]/div/div[3]/div').click()
-    ActionChains(driver).key_down(Keys.CONTROL).send_keys('a').key_up(Keys.CONTROL).perform()
-    ActionChains(driver).key_down(Keys.CONTROL).send_keys('c').key_up(Keys.CONTROL).perform()
-    code = pyperclip.paste()
-    problem_link = '// ' + driver.find_element_by_xpath('//*[@id="submission-app"]/div/div[1]/h4/a').get_attribute('href') + '\n'
-    info = '// ' + submission[2] + '    ' + submission[3] + '\n\n'
-    return problem_link + info + code
-
-def save_codes():
-    path = './LeetCode/'
-    os.makedirs(path, exist_ok=True)
-    for problem_name in submissions_to_save:
-        code = get_code(submissions_to_save[problem_name])
-        code_lang = submissions_to_save[problem_name][-2]
-        file_path = path + problem_name.replace(' ', '_') + '.' + code_lang
-        with open(file_path, 'w') as f:
-            f.write(code)
-
-def sign_into_leetcode(username, password):
-    driver.get("https://leetcode.com/accounts/login/")
-    driver.find_element_by_xpath('// *[ @ id = "id_login"]').send_keys(username)
-    driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(password)
-    driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(Keys.ENTER)
-
 def get_submissions():
     driver.get('https://leetcode.com/submissions/')
     submissions = []
@@ -110,6 +103,12 @@ def get_submissions():
         next_button.click()
     return submissions
 
+def sign_into_leetcode(username, password):
+    driver.get("https://leetcode.com/accounts/login/")
+    driver.find_element_by_xpath('// *[ @ id = "id_login"]').send_keys(username)
+    driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(password)
+    driver.find_element_by_xpath('// *[ @ id = "id_password"]').send_keys(Keys.ENTER)
+
 if __name__ == "__main__":
     sign_into_leetcode(username='', password='')
     input('proceed?')
@@ -119,6 +118,6 @@ if __name__ == "__main__":
     submissions_to_save = filter_submissions(submissions)
     with open('submissions_to_save.json', 'w') as f:
         json.dump(submissions_to_save, file=f)
-    save_codes(submissions_to_save)
+    save_codes(submissions_to_save, path='./LeetCode/')
     # go_to_algorithms()
     driver.close()
