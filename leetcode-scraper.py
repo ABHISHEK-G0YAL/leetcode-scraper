@@ -44,9 +44,6 @@ def go_to_algorithms():
         title = row.find_element_by_tag_name("a").text
         href = row.find_element_by_tag_name("a").get_attribute("href")
         problems[title] = href
-    for title in problems:
-        code = scrape_code(problems[title])
-        create_file(title, code)
 
 def get_code(submission):
     driver.get(submission[-1])
@@ -114,10 +111,10 @@ if __name__ == "__main__":
     input('proceed?')
     submissions = get_submissions()
     with open('all_submissions.json', 'w') as f:
-        json.dump(submissions, file=f)
+        json.dump(submissions, f)
     submissions_to_save = filter_submissions(submissions)
-    with open('submissions_to_save.json', 'w') as f:
-        json.dump(submissions_to_save, file=f)
     save_codes(submissions_to_save, path='./LeetCode/')
+    with open('saved_submissions.json', 'w') as f:
+        json.dump(submissions_to_save, f)
     # go_to_algorithms()
     driver.close()
