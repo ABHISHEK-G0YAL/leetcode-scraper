@@ -24,17 +24,11 @@ driver = webdriver.Chrome(options=chrome_options)
 driver.implicitly_wait(TIME_DELAY)
 
 def get_solved_problems():
-    driver.get("https://leetcode.com/problemset/all/")
-    solved_dropdown = driver.find_element_by_xpath(
-        '//*[@id="question-app"]/div/div[2]/div[2]/div'
-        '/div[2]/div[4]'
-    )
-    solved_dropdown.click()
-    all_dropdown = driver.find_element_by_xpath(
-        '//*[@id="question-app"]/div/div[2]/div[2]/div/div[2]'
-        '/div[4]/div/div/div/div[2]'
-    )
-    all_dropdown.click()
+    driver.get('https://leetcode.com/problemset/all/')
+    dropdown = driver.find_element_by_xpath('//*[@id="question-app"]/div/div[2]/div[2]/div[1]/div[2]/div[4]')
+    dropdown.click()
+    solved = driver.find_element_by_xpath('//*[@id="question-app"]/div/div[2]/div[2]/div[1]/div[2]/div[4]/div/div/div/div[2]')
+    solved.click()
 
     # Opens every problem and then copies their data into a file
     table = driver.find_element_by_class_name('reactable-data')
