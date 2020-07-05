@@ -23,9 +23,8 @@ chrome_options.add_argument("--log-level=3")
 driver = webdriver.Chrome(options=chrome_options)
 driver.implicitly_wait(TIME_DELAY)
 
-def go_to_algorithms():
-    make_directory("./leet_code_solutions")
-    driver.get("https://leetcode.com/problemset/algorithms/")
+def get_solved_problems():
+    driver.get("https://leetcode.com/problemset/all/")
     solved_dropdown = driver.find_element_by_xpath(
         '//*[@id="question-app"]/div/div[2]/div[2]/div'
         '/div[2]/div[4]'
@@ -44,6 +43,7 @@ def go_to_algorithms():
         title = row.find_element_by_tag_name("a").text
         href = row.find_element_by_tag_name("a").get_attribute("href")
         problems[title] = href
+    return problems
 
 def get_code(submission):
     driver.get(submission[-1])
@@ -109,12 +109,14 @@ def sign_into_leetcode(username, password):
 if __name__ == "__main__":
     sign_into_leetcode(username='', password='')
     input('proceed?')
+    solved_problems = get_solved_problems()
+    with open('solved_problems.json', 'w') as f:
+        json.dump(solved_problems, f, indent=4)
     submissions = get_submissions()
     with open('all_submissions.json', 'w') as f:
         json.dump(submissions, f, indent=4)
     submissions_to_save = filter_submissions(submissions)
-    save_codes(submissions_to_save, path='./LeetCode/')
     with open('saved_submissions.json', 'w') as f:
         json.dump(submissions_to_save, f, indent=4)
-    # go_to_algorithms()
+    save_codes(submissions_to_save, path='./LeetCode/')
     driver.close()
