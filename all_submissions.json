@@ -1,0 +1,2002 @@
+[
+    [
+        "2 hours, 31 minutes ago",
+        "Implement strStr()",
+        "Accepted",
+        "28 ms",
+        "python",
+        "https://leetcode.com/submissions/detail/362169154/"
+    ],
+    [
+        "3 days, 7 hours ago",
+        "Arranging Coins",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/360760533/"
+    ],
+    [
+        "5 days, 5 hours ago",
+        "Edit Distance",
+        "Accepted",
+        "1340 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/359931699/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357523980/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357522171/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357521847/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357521493/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357521037/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357516568/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357516463/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357516228/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357512334/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357512215/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357512156/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357511985/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357511923/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357511763/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357510154/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357505814/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357504719/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357504511/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357504185/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357504095/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357503608/"
+    ],
+    [
+        "1 week, 4 days ago",
+        "Interleaving String",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/357456506/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Valid Parentheses",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356632068/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Valid Parentheses",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356631917/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Valid Parentheses",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356631856/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Valid Parentheses",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356630985/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Valid Parentheses",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356628086/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Palindrome Partitioning II",
+        "Accepted",
+        "1800 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356544898/"
+    ],
+    [
+        "1 week, 6 days ago",
+        "Palindrome Partitioning II",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/356543259/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "652 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353688092/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "632 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353687473/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "748 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353687392/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "696 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353683617/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353681701/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "668 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353676540/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "684 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353676309/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1260 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353676250/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "904 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353675997/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1128 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353675806/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "676 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353675428/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "668 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353674652/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "868 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353674566/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1044 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353674491/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1216 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353674412/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "684 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353673996/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1232 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353673663/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1292 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353673540/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "1280 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353672737/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353672402/"
+    ],
+    [
+        "2 weeks, 6 days ago",
+        "K Closest Points to Origin",
+        "Accepted",
+        "696 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353665591/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353267269/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353267069/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353266328/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353264926/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "32 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353261308/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "48 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353261140/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353259255/"
+    ],
+    [
+        "3 weeks ago",
+        "Kth Largest Element in an Array",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/353256519/"
+    ],
+    [
+        "3 weeks, 3 days ago",
+        "Largest Rectangle in Histogram",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/351889958/"
+    ],
+    [
+        "3 weeks, 5 days ago",
+        "Recover Binary Search Tree",
+        "Accepted",
+        "32 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/350969870/"
+    ],
+    [
+        "3 weeks, 5 days ago",
+        "Recover Binary Search Tree",
+        "Accepted",
+        "40 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/350969658/"
+    ],
+    [
+        "3 weeks, 5 days ago",
+        "Recover Binary Search Tree",
+        "Accepted",
+        "64 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/350969340/"
+    ],
+    [
+        "3 weeks, 5 days ago",
+        "Recover Binary Search Tree",
+        "Accepted",
+        "40 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/350968197/"
+    ],
+    [
+        "3 weeks, 5 days ago",
+        "Recover Binary Search Tree",
+        "Accepted",
+        "40 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/350967302/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1288 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349759035/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349758977/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1108 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349758537/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1712 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349758490/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1608 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349758199/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1836 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349757294/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1144 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349753681/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349752480/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1140 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349746751/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1156 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745842/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745778/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1692 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745698/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745660/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1620 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745588/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1424 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745558/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1312 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745518/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1132 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745264/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1172 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349745064/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1532 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349744894/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Accepted",
+        "1136 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349742817/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349740177/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349739480/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349738564/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349726405/"
+    ],
+    [
+        "4 weeks ago",
+        "Maximum Number of Events That Can Be Attended",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/349716620/"
+    ],
+    [
+        "1 month ago",
+        "Out of Boundary Paths",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/348002229/"
+    ],
+    [
+        "1 month ago",
+        "Out of Boundary Paths",
+        "Accepted",
+        "136 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/348001883/"
+    ],
+    [
+        "1 month ago",
+        "Out of Boundary Paths",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/348001415/"
+    ],
+    [
+        "1 month ago",
+        "Out of Boundary Paths",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/347997148/"
+    ],
+    [
+        "1 month ago",
+        "Out of Boundary Paths",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/347992065/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Accepted",
+        "124 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345947413/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Accepted",
+        "128 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345940393/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345867615/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Accepted",
+        "148 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345863494/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345476669/"
+    ],
+    [
+        "1 month, 1 week ago",
+        "Coin Change",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/345407380/"
+    ],
+    [
+        "1 month, 3 weeks ago",
+        "Number of Digit One",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/337274024/"
+    ],
+    [
+        "1 month, 3 weeks ago",
+        "Number of Digit One",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/337268698/"
+    ],
+    [
+        "1 month, 3 weeks ago",
+        "Number of Digit One",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/337268254/"
+    ],
+    [
+        "1 month, 3 weeks ago",
+        "Number of Digit One",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/337268104/"
+    ],
+    [
+        "1 month, 3 weeks ago",
+        "Number of Digit One",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/337249655/"
+    ],
+    [
+        "2 months ago",
+        "Construct Binary Search Tree from Preorder Traversal",
+        "Accepted",
+        "8 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/332242219/"
+    ],
+    [
+        "2 months, 1 week ago",
+        "Valid Palindrome",
+        "Accepted",
+        "8 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/330514780/"
+    ],
+    [
+        "2 months, 1 week ago",
+        "Valid Palindrome",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/330514092/"
+    ],
+    [
+        "2 months, 1 week ago",
+        "Valid Palindrome",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/330509583/"
+    ],
+    [
+        "2 months, 1 week ago",
+        "Valid Palindrome",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/330506265/"
+    ],
+    [
+        "2 months, 1 week ago",
+        "Valid Palindrome",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/330504953/"
+    ],
+    [
+        "2 months, 4 weeks ago",
+        "Couples Holding Hands",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/320597362/"
+    ],
+    [
+        "2 months, 4 weeks ago",
+        "Couples Holding Hands",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/320591192/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Convert Sorted Array to Binary Search Tree",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/314875642/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313882036/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "16 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313663657/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "16 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313663495/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313663461/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "16 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313661170/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "16 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313660583/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313660420/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313660291/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Accepted",
+        "16 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313652624/"
+    ],
+    [
+        "3 months, 2 weeks ago",
+        "Lowest Common Ancestor of a Binary Tree",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/313650763/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306802426/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Output Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306801913/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306799107/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306797864/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306797684/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306797553/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306797218/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Remove K Digits",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/306796320/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305739095/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305729735/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305728596/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305728512/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305727438/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305727127/"
+    ],
+    [
+        "4 months, 1 week ago",
+        "Stone Game II",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/305718161/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "java",
+        "https://leetcode.com/submissions/detail/276850219/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276837420/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276836727/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Accepted",
+        "91 ms",
+        "java",
+        "https://leetcode.com/submissions/detail/276835058/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Accepted",
+        "97 ms",
+        "java",
+        "https://leetcode.com/submissions/detail/276834326/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276830982/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276829285/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276829212/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276828741/"
+    ],
+    [
+        "8 months ago",
+        "Longest Increasing Subsequence",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/276825478/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/260251673/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/260249720/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/260247441/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Number of Squareful Arrays",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/260247228/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/260245859/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "32 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259828466/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259828445/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "32 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259828431/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259828413/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "20 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259828368/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259827289/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259827259/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "28 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259827241/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259827203/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "36 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259827159/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259826632/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "100 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259826372/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1132 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259826031/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1116 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259825894/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1116 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259825836/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1112 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259825769/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1080 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259825018/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259823044/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Accepted",
+        "1180 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259818647/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259816984/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259814094/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259813645/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259810076/"
+    ],
+    [
+        "9 months, 3 weeks ago",
+        "Wildcard Matching",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/259809290/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255769434/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255769354/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255768773/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255768340/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255768218/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255767017/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255766149/"
+    ],
+    [
+        "10 months, 1 week ago",
+        "Number of Squareful Arrays",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/255762828/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Find Common Characters",
+        "Accepted",
+        "12 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253930301/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Two Sum",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253585002/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Trapping Rain Water",
+        "Accepted",
+        "8 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253582279/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Accepted",
+        "24 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253579886/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253579827/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "First Unique Character in a String",
+        "Accepted",
+        "40 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253550608/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "First Unique Character in a String",
+        "Accepted",
+        "40 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253550337/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Implement strStr()",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253549532/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253546432/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253544885/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253544725/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253544696/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253544657/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253394910/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253394364/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253393659/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253393473/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "Reorder Data in Log Files",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253392098/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253082848/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253082821/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253082002/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253081943/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253081299/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253081270/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253080870/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253080750/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253080669/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253080354/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253074100/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253074031/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253073646/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253073561/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253072236/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "K-th Symbol in Grammar",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253071723/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "All Possible Full Binary Trees",
+        "Accepted",
+        "88 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253058537/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "All Possible Full Binary Trees",
+        "Accepted",
+        "92 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253036123/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "All Possible Full Binary Trees",
+        "Accepted",
+        "96 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253034867/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "All Possible Full Binary Trees",
+        "Accepted",
+        "96 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253034147/"
+    ],
+    [
+        "10 months, 2 weeks ago",
+        "All Possible Full Binary Trees",
+        "Accepted",
+        "156 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/253029686/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Longest Univalue Path",
+        "Accepted",
+        "156 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251665855/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Longest Univalue Path",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251595820/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Defanging an IP Address",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251588207/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Defanging an IP Address",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251588190/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Defanging an IP Address",
+        "Accepted",
+        "4 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251588102/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Defanging an IP Address",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251587852/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Accepted",
+        "36 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251389693/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251389443/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251389032/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251388955/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251388914/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251388215/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251387931/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251387664/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Compile Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251387613/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Runtime Error",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251386929/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Longest Univalue Path",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251334661/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Longest Univalue Path",
+        "Wrong Answer",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251334576/"
+    ],
+    [
+        "10 months, 3 weeks ago",
+        "Continuous Subarray Sum",
+        "Accepted",
+        "52 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/251316762/"
+    ],
+    [
+        "11 months, 1 week ago",
+        "Count and Say",
+        "Accepted",
+        "0 ms",
+        "cpp",
+        "https://leetcode.com/submissions/detail/246960610/"
+    ],
+    [
+        "1 year ago",
+        "Edit Distance",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/237037085/"
+    ],
+    [
+        "1 year ago",
+        "Edit Distance",
+        "Time Limit Exceeded",
+        "N/A",
+        "cpp",
+        "https://leetcode.com/submissions/detail/237035526/"
+    ]
+]
