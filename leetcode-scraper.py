@@ -111,10 +111,10 @@ if __name__ == "__main__":
     input('proceed?')
     submissions = get_submissions()
     with open('all_submissions.json', 'w') as f:
-        json.dump(submissions, f)
+        json.dump(submissions, f, indent=4)
     submissions_to_save = filter_submissions(submissions)
     save_codes(submissions_to_save, path='./LeetCode/')
     with open('saved_submissions.json', 'w') as f:
-        json.dump(submissions_to_save, f)
+        json.dump(submissions_to_save, f, indent=4)
     # go_to_algorithms()
     driver.close()
