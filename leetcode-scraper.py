@@ -36,8 +36,8 @@ def get_code(submission):
     ActionChains(driver).key_down(Keys.CONTROL).send_keys('c').key_up(Keys.CONTROL).perform()
     code = pyperclip.paste()
     problem_link = '// ' + driver.find_element_by_xpath('//*[@id="submission-app"]/div/div[1]/h4/a').get_attribute('href') + '\n'
-    info = '// ' + submission[2] + '    ' + submission[3] + '\n\n'
-    return problem_link + info + code
+    info = '// ' + submission[2] + '\n' if submission[2] != 'Accepted' else ''
+    return problem_link + info + '\n' + code
 
 def save_codes(submissions, path):
     os.makedirs(path, exist_ok=True)
